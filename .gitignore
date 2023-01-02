@@ -1,0 +1,73 @@
+# Ignore annoying macOS files
+.DS_Store
+
+# Ignore annoying windows files
+[Dd]esktop.ini
+Thumbs.db
+
+# Visual Studio
+.vs
+*.sln
+*.suo
+*.opensdf
+*.VC.db
+*.opendb
+*.sdf
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Code::Blocks
+*.workspace
+
+# CodeLite
+*CodeLitePreProcessor.txt
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+
+# KDevelop
+.kdev4/
+*.kdev4
+
+# CLion
+*CodeCompletionFolders.txt
+
+# IntelliJ IDE
+.idea
+
+# # Compiled Object files
+# *.slo
+# *.lo
+# *.o
+# *.obj
+
+# # Precompiled Headers
+# *.gch
+# *.pch
+
+# # Compiled Dynamic libraries
+# *.so
+# *.dylib
+# *.dll
+
+# Built data for maps
+*_BuiltData.uasset
+
+# # Whitelist PakBlacklist-<BuildConfiguration>.txt files
+# !Build/*/
+# Build/*/**
+# !Build/*/PakBlacklist*.txt
+
+# # Don't ignore icon files in Build
+# !Build/**/*.ico
+
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+PackageBuilds
+Plugins/Developer/RiderLink
+PackagedGame
