@@ -29,6 +29,3 @@ All base classes (except the Widget used for HUD) were written in C++ first. Onc
 - effects when flapping
 - music
 - projectiles you have to dodge
-
-## What I am still working on
-- post in comments of (Game Makers Toolkit)(https://www.youtube.com/watch?v=XtQMytORBmM)
